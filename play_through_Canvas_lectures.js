@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         New Userscript
+// @name         PlayThroughCanvasLectures
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  skip through the lectures, pause at the quizzes
